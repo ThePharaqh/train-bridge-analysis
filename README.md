@@ -8,5 +8,6 @@ This script provides a simple way to analyse the bending moments along a bridge'
 - 3D graph comparing BMD to train position, to analyze maximum possible bending moment.
 - Cross sectional analysis across non uniform bridge including I, centroid
 - Analysis of maximum bending stress for all train positions
+- Analysis of maximum shear stress for all train positions
 
 _note: **get_constants.m** contains sample data, though you can easily replace it to match your situation as long as everything is consistent._

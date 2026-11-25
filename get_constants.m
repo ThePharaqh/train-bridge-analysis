@@ -8,7 +8,7 @@ function c = get_constants()
         consts.STANDARD_WIDTH = 1.27;
         consts.MIN_HEIGHT = 100;
         consts.MAX_HEIGHT = 160;
-        consts.LOAD_FACTOR = 300;
+        consts.LOAD_FACTOR = 150;
     end
     c = consts;
 end
