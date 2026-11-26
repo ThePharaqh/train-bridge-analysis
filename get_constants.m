@@ -10,6 +10,8 @@ function c = get_constants()
         consts.MAX_HEIGHT = 160;
         consts.LOAD_FACTOR = 150;
         consts.GLUE_TAB_breadth = 5;
+        consts.E = 4000;
+        consts.mu = 0.2;
     end
     c = consts;
 end
