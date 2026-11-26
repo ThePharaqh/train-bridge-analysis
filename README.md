@@ -9,5 +9,6 @@ This script provides a simple way to analyse the bending moments along a bridge'
 - Cross sectional analysis across non uniform bridge including I, centroid
 - Analysis of maximum bending stress for all train positions
 - Analysis of maximum shear stress for all train positions
+- Analysis of bending and shear buckling in the flange and webs.
 
 _note: **get_constants.m** contains sample data, though you can easily replace it to match your situation as long as everything is consistent._

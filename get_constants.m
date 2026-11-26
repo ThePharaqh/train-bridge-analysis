@@ -12,6 +12,7 @@ function c = get_constants()
         consts.GLUE_TAB_breadth = 5;
         consts.E = 4000;
         consts.mu = 0.2;
+        consts.PANEL_LENGTH = 15;
     end
     c = consts;
 end
