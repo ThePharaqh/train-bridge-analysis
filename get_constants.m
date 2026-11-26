@@ -9,7 +9,7 @@ function c = get_constants()
         consts.MIN_HEIGHT = 100;
         consts.MAX_HEIGHT = 160;
         consts.LOAD_FACTOR = 150;
-        onsts.GLUE_TAB_breadth = 5;
+        consts.GLUE_TAB_breadth = 5;
     end
     c = consts;
 end
