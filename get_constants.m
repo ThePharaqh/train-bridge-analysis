@@ -11,6 +11,12 @@ function c = get_constants()
         consts.LOAD_FACTOR = 300;
         consts.LOAD_FACTOR = 150;
         consts.GLUE_TAB_breadth = 5;
+<<<<<<< Updated upstream
+=======
+        consts.E = 4000;
+        consts.mu = 0.2;
+        consts.PANEL_LENGTH = 220;
+>>>>>>> Stashed changes
     end
     c = consts;
 end
